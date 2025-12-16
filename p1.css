@@ -1,0 +1,132 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f0f2f5;
+}
+
+.f{
+    font-size: 2rem;
+}
+.f1{
+    font-size: 1.8rem;
+    width: 550px;
+}
+.loginbox{
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 350px;
+    min-height: 300px;
+    margin: 20px auto;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    position:  relative;
+    left: 270px;
+    top: -250px;
+
+}
+input{
+    width: 100%;
+    box-sizing: border-box ;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+    font-size: 1rem;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    outline:none;  
+}       
+input:focus {
+    border-color: #1877f2;
+    box-shadow: 0 0 0 2px #e7f3ff;
+}
+
+.login{
+    width: 100%;
+    padding:12px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    background-color: #1877F2;
+    color: #fff;
+    border: none;
+    margin-bottom: 12px;
+
+}
+ .login:hover{
+    background-color: #1558a5; 
+    color: #e0e0e0;  
+ }         
+
+.CA{
+    
+    width: 180px;
+    padding: 15px;
+    font-size: 1rem;
+    margin-top: 12px; 
+    display: block;
+    font-weight: bold;
+    margin: 20px auto 0 auto;
+    border-radius: 6px;
+    border: none;
+    background-color: rgb(63, 163, 63);
+    cursor: pointer;
+    
+}
+.Co{
+    text-decoration: none;
+    margin-left: 15px;
+    color: #fff;
+}
+
+
+.CA:hover{
+    background-color:#338a33; 
+    color: #e0e0e0;
+
+}
+.forgot{
+    font-size: .9rem;
+    padding: 12px;
+    color:#1877F2;
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 8px;
+    display: block;
+
+}
+.forgot:hover{
+    text-decoration: underline;
+}
+hr{
+    border: none;
+    border-top: 1px solid #dadde1;
+}
+.f h1{
+    margin: 250px;
+    margin-bottom: 0;
+    color: #1877F2;
+    
+}
+.f1 p{
+    margin: auto;
+    position: relative;
+    right: -250px;
+    
+}
+.terms{
+    display: inline;
+    position: relative;
+    font-size: 14px;
+    left: 880px;
+    bottom:250px;
+    
+}
+.condition{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    left: 880px;
+    bottom:250px;
+}

@@ -1,0 +1,170 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f0f2f5;
+}
+.f{
+    font-size: 1.8rem;
+    text-align: center;
+    color:#1877F2;
+}
+.createaccount{
+    border: 1px solid #ddd;
+    width: 400px;
+    padding: 20px;
+    min-height: 535px;
+    margin: auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    position: relative;
+    bottom: 20px;
+
+}
+.h2font{
+    font-size: 1.6rem;
+    margin-left: 70px;
+    margin-top: -15px;
+    color: #000000e0;
+    
+}
+.p1{
+    color: rgb(128, 128, 128);
+    margin-left: 130px;
+    margin-top: -20px;
+}
+.createaccount hr{
+    width:440px;
+    position: relative;
+    right: 20px;
+    border: none;
+    border-top: 1px solid #dadde1;
+    
+}
+.fn{
+    border: 1px solid #ddd;
+    width: 48%;
+    box-sizing: border-box;
+    padding: 11px;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    outline: none;
+    
+}
+.sn{
+    
+    border: 1px solid #ddd;
+    width: 48%;
+    box-sizing: border-box;
+    padding: 11px;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    outline: none;
+    margin-left:8px;
+}
+.p2{
+    font-size: 0.8rem;
+    color: #000000ac;
+}
+.d1{
+    border: 1px solid #ddd;
+    width: 33%;
+    padding: 9px;
+    border-radius: 6px;
+    font-size: .95rem;
+
+
+
+}
+.m1{
+    border: 1px solid #ddd;
+    width: 33%;
+    padding: 9px;
+    border-radius: 6px;
+    font-size: .95rem;
+
+}
+.y1{
+    border: 1px solid #ddd;
+    width: 33%;
+    padding: 9px;
+    border-radius: 6px;
+    font-size: .95rem;
+}
+.dob-row{
+    display: flex;
+    gap: 8px;
+}
+.p3{
+    font-size: 0.8rem;
+    color: #000000ac;
+}
+#male{
+    border: 1px solid #ddd;
+    width:120px;
+    padding: 5px;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+#female{
+    border: 1px solid #ddd;
+    width:120px;
+    padding: 5px;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+#custom{
+    border: 1px solid #ddd;
+    width:120px;
+    padding: 5px;
+    border-radius: 6px;
+    font-size: 1rem;
+
+}
+.gender{
+    display: flex;
+    gap: 10px;
+}
+.email{
+    border: 1px solid #ddd;
+    padding: 12px;
+    width: 375px;
+    border-radius: 6px;
+    display: flex;
+    margin-top: 10px;
+    font-size: .9rem;
+}
+.password{
+    border: 1px solid #ddd;
+    padding: 12px;
+    width: 375px;
+    border-radius: 6px;
+    display: flex;
+    margin-top: 10px;
+    font-size: .9rem;
+}
+.p4{
+    font-size: 0.7rem;
+    color: #000000ac;
+}
+button{
+    width:165px;
+    padding: 9px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-left:115px;
+    background-color: #338a33; 
+    color: #fff;
+    border: none;
+}
+.already{
+    font-size: 1rem;
+    padding: 12px;
+    color:#1877F2;
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 8px;
+    display: block;
+}
